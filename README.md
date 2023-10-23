@@ -1,13 +1,10 @@
 ### Hi there 👋
 
-I'm Damaris Avila from Chile 🇨🇱
+Hi! Soy Damaris Avila 🇨🇱
 
-I am a computer engineering graduate with a specialization in computer science.
+Ingeniera de software que disfruta de la tecnología, los juegos de mesa y viajar. 👩‍💻🌴
 
-In my free time, I love to read, learn new things, watch movies, series, and play board games 🎮.
-
-You can learn more about me by visiting my website: https://www.damuse.dev/en/ 👩‍💻
-
+Pueden visitar mi blog: https://www.damuse.dev/en/ donde comento mis experiencias personales y doy algunos tips acerca de mis viajes. 🗺️
 <!--
 **damuse-avf/damuse-avf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
