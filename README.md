@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-My name is Damaris Avila 🌱, and I am a computer engineering graduate with a specialization in computer science.
+I'm Damaris Avila from Chile 🇨🇱
 
-In my free time, I love to read, learn new things, watch movies, series, and play board games.
+I am a computer engineering graduate with a specialization in computer science.
+
+In my free time, I love to read, learn new things, watch movies, series, and play board games 🎮.
+
+You can learn more about me by visiting my website: https://www.damuse.dev/en/ 👩‍💻
 
 <!--
 **damuse-avf/damuse-avf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
