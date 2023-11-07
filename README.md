@@ -4,7 +4,12 @@ Hi! Soy Damaris Avila 🇨🇱
 
 Ingeniera de software que disfruta de la tecnología, los juegos de mesa y viajar. 👩‍💻🌴
 
-Pueden visitar mi blog: https://www.damuse.dev/en/ donde comento mis experiencias personales y doy algunos tips acerca de mis viajes. 
+Pueden visitar mi blog: https://www.damuse.dev/es/ donde comento mis experiencias personales y doy algunos tips acerca de mis viajes. 
+
+Mis últimos post: 
+- https://www.damuse.dev/es/blog/engineering-manager/
+- https://www.damuse.dev/es/blog/babson-build/
+- https://www.damuse.dev/es/blog/boston-2023/
 <!--
 **damuse-avf/damuse-avf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
