@@ -6,8 +6,8 @@ Ingeniera de software que disfruta de la tecnología, los juegos de mesa y viaja
 
 Pueden visitar mi blog: https://www.damuse.dev/ donde comento mis experiencias personales y doy algunos tips acerca de mis viajes. 
 
-Mis post destacados: 
-- https://damuse.dev/blog/engineering-manager/
+Mis post destacados:
+- https://damuse.dev/blog/engineering-manager
 - https://damuse.dev/blog/babson-build/
 - https://damuse.dev/blog/mi-camino
 <!--
